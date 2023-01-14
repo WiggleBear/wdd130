@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #cbd5db; 
+    background-color:#cbd5db; 
 }
 header {
     background-color:#A3CEF1;
@@ -12,13 +12,13 @@ header {
 
 nav a {
     text-align: center;
-    background-color: #E7ECEF;
+    background-color:#E7ECEF;
     color: #274C77;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color:#8B8C89 ;
+    background-color:#8B8C89;
     color:#E7ECEF;
 }
 
@@ -35,55 +35,55 @@ main section {
 }
 
 .home-title {
-    color: #274C77 ;
+    color:#274C77;
 }
 
 h4 {
-    color: #6096BA;
+    color:#6096BA;
 }
 
 .book, .join {
-    background-color: #E7ECEF;
-    color: #274C77;
+    background-color:#E7ECEF;
+    color:#274C77;
     text-decoration: none;
 }
 
 .book:hover, .join:hover {
-    background-color:#8B8C89 ;
-    color: #E7ECEF;
+    background-color:#8B8C89;
+    color:#E7ECEF;
 }
 
 #background {
     height: 725px;
-    background-color: #8B8C89;
+    background-color:#8B8C89;
 }
 
 .msg {
-    background-color: #274C77;
+    background-color:#274C77;
 }
 
 .msg h2{
-    color:#E7ECEF ;
+    color:#E7ECEF;
 }
 
 .msg p {
-    color: #A3CEF1;
+    color:#A3CEF1;
 }
 
 footer {
-    background-color: #A3CEF1;
-    color:#274C77 ;
+    background-color:#A3CEF1;
+    color:#274C77;
 }
 
 footer a {
-    background-color: #E7ECEF;
-    color: #274C77;
+    background-color:#E7ECEF;
+    color:#274C77;
     text-decoration: none;
 }
 
 footer a:hover {
-    background-color:#8B8C89 ;
-    color:#E7ECEF;;
+    background-color:#8B8C89;
+    color:#E7ECEF;
 }
 
 footer p {
