@@ -4,10 +4,10 @@
 }
 
 body {
-    background-color: #E7ECEF; 
+    background-color: #cbd5db; 
 }
 header {
-    background-color:#274C77;
+    background-color:#A3CEF1;
 }
 
 nav a {
@@ -59,29 +59,30 @@ h4 {
 }
 
 .msg {
-    background-color: darkkhaki;
+    background-color: #274C77;
 }
 
 .msg h2{
-    color:goldenrod ;
+    color:#E7ECEF ;
 }
 
 .msg p {
-    color: lightpink;
+    color: #A3CEF1;
 }
 
 footer {
-    background-color: mediumturquoise;
-    color:mediumorchid ;
+    background-color: #A3CEF1;
+    color:#274C77 ;
 }
 
 footer a {
-    color:olive ;
-    text-decoration: none;
+    background-color: #E7ECEF;
+    color: #274C77;
 }
 
 footer a:hover {
-    color: orange;
+    background-color:#8B8C89 ;
+    color:#E7ECEF;;
 }
 
 footer p {
