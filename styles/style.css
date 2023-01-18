@@ -16,19 +16,27 @@ img {
   }
 
 a {
-font-size: 1.5em;
-color: white;
-margin: 40px;
-line-height: 1.5em;
+    padding: 10px;
+    color: white;
+    margin: 40px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    color: white;
+    margin: 40px;
+    line-height: 1.5em;
 }
 
 img {
-width: 30%;
-border: 4px solid steelblue;
+    padding: 25px;
+    width: 80%;
+    display: block;
+    margin: 50px auto;
+    border: 4px solid steelblue;
 }
  
 h1 {
 text-align: center;
+margin: 50px 0;
 }
 
 p {
@@ -41,3 +49,14 @@ nav, footer {
     background-color: steelblue;
     padding: 10px;
   }
+
+footer p {
+    padding: 25px;
+    color: white;
+    font-size: 20px;
+    margin: 20px auto; 
+}
+
+body {
+  margin: 0;
+}
