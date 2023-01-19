@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Moon+Dance&display=swap');
+/*font-family: Barlow, Helvetica, sans-serif;
+ font-family: "Moon Dance", Tahoma, sans-serif;*/
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -5,16 +9,22 @@
 
 body {
     background-color:#cbd5db; 
+    font-family: Barlow, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+
 }
+
 header {
     background-color:#A3CEF1;
 }
 
 nav a {
     text-align: center;
-    background-color:#E7ECEF;
     color: #274C77;
     text-decoration: none;
+    padding: 35px;
 }
 
 nav a:hover {
@@ -34,8 +44,19 @@ main section {
     text-align: center;
 }
 
+main section img {
+    box-sizing: border-box;
+}
+
 .home-title {
     color:#274C77;
+    font-family: "Moon Dance", Tahoma, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+h2 {
+    margin:0;
 }
 
 h4 {
@@ -46,6 +67,10 @@ h4 {
     background-color:#E7ECEF;
     color:#274C77;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover, .join:hover {
@@ -53,32 +78,51 @@ h4 {
     color:#E7ECEF;
 }
 
+.card-img {
+    border: 10px solid #274C77;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+
 #background {
     height: 725px;
     background-color:#8B8C89;
+    margin-bottom: 200px;
 }
 
 .msg {
     background-color:#274C77;
+    line-height: 1.5em;
+    padding: 35px;
+    margin-top: 200px;
 }
 
 .msg h2{
     color:#E7ECEF;
+    font-family: "Moon Dance", Verdana, Tahoma, sans-serif;
 }
 
 .msg p {
     color:#A3CEF1;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 
 footer {
     background-color:#A3CEF1;
     color:#274C77;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 footer a {
     background-color:#E7ECEF;
     color:#274C77;
     text-decoration: none;
+    
 }
 
 footer a:hover {
@@ -92,14 +136,23 @@ footer p {
 
 footer p a:hover {
     text-decoration: underline;
-}   
+}
 
-.logo {
+footer .social img {
+    padding-top: 15px;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+.logo{
     width: 80px;
 }
 
 .icon{
     width: 80px;
+    padding-top: 10px;
 }
 
 #hero-img {
