@@ -109,7 +109,7 @@ h1{
     font-family: "Unbounded", Tahoma, sans-serif;
     padding: 5px 5px 5px 5px;
     border-radius: 10px;
-    margin:0;
+    margin:auto;
 }
 #main-content{
     display: grid;
