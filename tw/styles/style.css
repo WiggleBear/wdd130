@@ -152,6 +152,21 @@ h1{
     grid-row: 2/3;
     color:#457B9D;
 }
+.container {
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    background-color: black;
+    bottom: 10px;
+    right: 10px;
+    opacity:.5;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
