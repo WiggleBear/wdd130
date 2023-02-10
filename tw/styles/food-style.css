@@ -103,7 +103,6 @@ footer .social img {
 }
 main{
     padding: 0px 75px;
-    color:#457B9D
 }
 h1{
     color:#1D3557;
@@ -137,6 +136,7 @@ h3{
     max-width: 800px;
     margin: 0 auto;
     font-size: .8em;
+    color:#457B9D
 }
 
 @media screen and (max-width: 900px) {
