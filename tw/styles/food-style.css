@@ -50,7 +50,7 @@ nav a:hover {
     margin-top: -15px;
     max-width: 100%;
     grid-column:2/6;
-    border: 3px solid #e63946;
+    border: 3px solid #e63947c5;
 }
 .night-msg{
     font-size: .8em;
@@ -124,7 +124,7 @@ h3{
     margin:7px;
 }
 .card-img {
-    border: 5px solid #e63946;
+    border: 5px solid #e63947c5;
     max-width:100%;
     height: auto;
 }
