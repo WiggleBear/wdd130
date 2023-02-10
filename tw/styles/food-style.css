@@ -58,6 +58,7 @@ nav a:hover {
     grid-row:2/3;
     justify-content: space-between;
     align-self: end;
+    color:#457B9D
 }
 #logo_link {
     padding-top: 5px;
@@ -102,6 +103,7 @@ footer .social img {
 }
 main{
     padding: 0px 75px;
+    color:#457B9D
 }
 h1{
     color:#1D3557;
